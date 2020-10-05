@@ -1,5 +1,7 @@
 # CS50-AI
+
 Solution for CS50 AI Projects
+
 ## Project 0
 
 ---
@@ -19,3 +21,43 @@ Solution for CS50 AI Projects
 > Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
 [Video Demo](https://www.youtube.com/watch?v=XEAojT9M8eY)
+
+## Project 1
+
+---
+
+- [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/)
+
+### Description
+
+> Write a program to solve logic puzzles.
+
+[Video Demo](https://www.youtube.com/watch?v=AImoOh0BRwk)
+
+- [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
+
+### Description
+
+> Write an AI to play Minesweeper.
+
+[Video Demo](https://www.youtube.com/watch?v=9jPifwnKddc)
+
+## Project 1
+
+---
+
+- [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
+
+### Description
+
+> Write an AI to rank web pages by importance.
+
+[Video Demo](https://www.youtube.com/watch?v=RAYSn4cAMkA)
+
+- [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/)
+
+### Description
+
+> Write an AI to assess the likelihood that a person will have a particular genetic trait.
+
+[Video Demo](https://www.youtube.com/watch?v=RAYSn4cAMkA)
