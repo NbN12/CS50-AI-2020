@@ -72,4 +72,4 @@ Solution for CS50 AI Projects
 
 > Write an AI to generate crossword puzzles.
 
-[Video Demo](https://www.youtube.com/watch?v=RAYSn4cAMkA)
+[Video Demo](https://www.youtube.com/watch?v=tFq-rdKfB30)
