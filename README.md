@@ -42,7 +42,7 @@ Solution for CS50 AI Projects
 
 [Video Demo](https://www.youtube.com/watch?v=9jPifwnKddc)
 
-## Project 1
+## Project 2
 
 ---
 
