@@ -61,3 +61,15 @@ Solution for CS50 AI Projects
 > Write an AI to assess the likelihood that a person will have a particular genetic trait.
 
 [Video Demo](https://www.youtube.com/watch?v=RAYSn4cAMkA)
+
+## Project 3
+
+---
+
+- [Crossword](https://cs50.harvard.edu/ai/2020/projects/3/crossword/)
+
+### Description
+
+> Write an AI to generate crossword puzzles.
+
+[Video Demo](https://www.youtube.com/watch?v=RAYSn4cAMkA)
