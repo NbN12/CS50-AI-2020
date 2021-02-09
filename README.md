@@ -1,8 +1,8 @@
-# CS50 AI course (version 2020)
+# CS50 AI (version 2020)
 
 ## Table of contents
 
-- [CS50 AI course (version 2020)](#cs50-ai-course-version-2020)
+- [CS50 AI (version 2020)](#cs50-ai-version-2020)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
     - [Description](#description)
