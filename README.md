@@ -14,6 +14,8 @@
       - [3. Project 2](#3-project-2)
       - [4. Project 3](#4-project-3)
       - [5. Project 4](#5-project-4)
+      - [6. Project 5](#6-project-5)
+      - [7. Project 6](#7-project-6)
   - [Vscode extensions](#vscode-extensions)
 
 ## General info
@@ -104,6 +106,22 @@
       * Description
       > Write an AI to predict whether online shopping customers will complete a purchase. More details see [this link](https://cs50.harvard.edu/ai/2020/projects/4/shopping/)
       * [Video Demo](https://www.youtube.com/watch?v=MnQnJ7-MtiI)
+
+#### [6. Project 5](Project-5)
+   1. [Traffic](Project-5/Traffic)
+      * Description
+      > Write an AI to identify which traffic sign appears in a photograph. More details see [this link](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
+      * [Video Demo](Project-5)(Comming soon)
+
+#### [7. Project 6](Project-6)
+   1. [Parser](Project-6/Parser)
+      * Description
+      > Write an AI to parse sentences and extract noun phrases. More details see [this link](https://cs50.harvard.edu/ai/2020/projects/6/parser/)
+      * [Video Demo](Project-6)(Comming soon)
+   2. [Questions](Project-6/Questions)
+      * Description
+      > Write an AI to answer questions. More details see [this link](https://cs50.harvard.edu/ai/2020/projects/6/questions/)
+      * [Video Demo](Project-6)(Comming soon)
 
 ## Vscode extensions
 1. ms-python.python
